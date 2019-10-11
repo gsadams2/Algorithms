@@ -8,7 +8,6 @@ pancake_ing = { 'milk': 198, 'butter': 52, 'cheese': 10 }
 
 def recipe_batches(recipe, ingredients):
   total = []
- 
   for i in recipe:
     if i in ingredients:
       for j in ingredients:

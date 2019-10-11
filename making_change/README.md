@@ -21,6 +21,7 @@ change for 10 cents using pennies, nickels, dimes, quarters, and half-dollars:
  2. We can use 5 pennies and a nickel
  3. We can use 2 nickels
  4. We can use a single dime
+ 
 
 ## Testing 
 
