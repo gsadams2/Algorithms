@@ -9,6 +9,7 @@ Write a function that receives a recipe in the form of a dictionary, as well as 
   'sugar': 8,
   'flour': 15
 }
+
 ```
 
 The keys will be the ingredient names, with their associated values being the amounts. In the case of the recipe dictionary, these amounts will represent the amount of each ingredient needed for the recipe, while in the case of the ingredients dictionary, the amounts represent the amounts available to you. 
@@ -21,7 +22,7 @@ For example
 # should return 0 since we don't have enough butter!
 recipe_batches(
   { 'milk': 100, 'butter': 50, 'flour': 5 },
-  { 'milk': 138, 'butter': 48, 'flour': 51 }
+  { 'milk': 200, 'butter': 100, 'flour': 51 }
 )
 ```
 

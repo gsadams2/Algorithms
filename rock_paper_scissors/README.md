@@ -1,11 +1,12 @@
 # Rock Paper Scissors
 
+
 Write a function `rock_paper_scissors` to generate all of the possible plays that can be made in a game of "Rock Paper Scissors", given some input `n`, which represents the number of plays per round. 
 
 For example, given n = 2, your function should output the following:
 
 ```python
-[['rock', 'rock'], ['rock', 'paper'], ['rock', 'scissors'], ['paper', 'rock'], ['paper', 'paper'], ['paper', 'scissors'], ['scissors', 'rock'], ['scissors', 'paper'], ['scissors', 'scissors']]
+s
 ```
 
 Your output should be a list of lists containing strings. Each inner list should have length equal to the input n.
